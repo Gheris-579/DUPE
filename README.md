@@ -8,7 +8,7 @@ Select the Folder: With just a few clicks, choose the folder on your computer wh
 Recover Precious Space: Eliminate unnecessary copies and free up space on your disks or memory. Organize Your Gallery: Make your photo library cleaner and easier to manage. Save Time: Forget the tedious manual search for duplicate photos. Safety: Duplicate photos are moved to the trash, not permanently deleted, offering you extra protection. In short, this program is your ally in tidying up your photos, eliminating annoying identical copies in a simple, fast, and safe way!
 </p>
 
-# ScrennShot
+# ScreenShot 🖵
 
 ![image](https://github.com/user-attachments/assets/49c4e4b3-e086-4049-ab88-e86299239c44)
 
