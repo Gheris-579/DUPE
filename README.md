@@ -21,7 +21,6 @@ Recover Precious Space: Eliminate unnecessary copies and free up space on your d
 
 <h1>The explanation of:</h1>
 <p>
-  Okay, I agree. Let's translate your Italian explanation of the dictionary returned by `find_duplicate_images` step by step and make it clear and correct.
 
 **dict: A dictionary where keys are hashes of images and values are lists of paths to files with the same hash.**
 
@@ -61,7 +60,6 @@ The hash `'9876543210fedc.'` is another key, and its value is a list with only t
 
 The `send_duplicates_to_trash` function then uses this dictionary to find the sets of duplicate files (the lists with more than one path) and ask the user if he/she wants to send them to the trash.
 
-How does that look? Are there any specific parts you'd like to refine or discuss further?
 </p>
   
 # ScreenShot 🖵
