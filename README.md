@@ -19,7 +19,7 @@ Recover Precious Space: Eliminate unnecessary copies and free up space on your d
   </ul>
 
 
-<h1>The explanation of:</h1>
+<h1>The explanation of: hash</h1>
 <p>
 
 **dict: A dictionary where keys are hashes of images and values are lists of paths to files with the same hash.**
