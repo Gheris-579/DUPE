@@ -1,4 +1,5 @@
-![diagram-export-24-04-2025-00_18_22](https://github.com/user-attachments/assets/abcab519-a2a7-43b5-8874-6ddfd582ad14)[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) ![MEDA WITH -GHERIS-](https://github.com/Gheris-579/RANSOMEWARE/assets/103877241/8680eb64-f902-496d-8d48-1b4239340c40)
+ ![MEDA WITH -GHERIS-](https://github.com/Gheris-579/RANSOMEWARE/assets/103877241/8680eb64-f902-496d-8d48-1b4239340c40) ![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)    
+
 
 <h1>Description</h1>
 <p><em>This software is the ultimate solution for cleaning up your photo library!
